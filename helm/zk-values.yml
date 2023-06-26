@@ -1,0 +1,4 @@
+replicaCount: 1
+auth:
+  enable: false
+allowAnonymousLogin: true
