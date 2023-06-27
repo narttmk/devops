@@ -1,7 +1,0 @@
-kraft:
-  enabled: false
-zookeeper:
-  enabled: true
-replicaCount: 1
-externalZookeeper:
-  servers: zookeeper.default.svc.cluster.local
